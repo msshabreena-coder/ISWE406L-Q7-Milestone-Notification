@@ -1,1 +1,1 @@
-print("Build application executed successfully.")
+print("Build application executed successfully."
